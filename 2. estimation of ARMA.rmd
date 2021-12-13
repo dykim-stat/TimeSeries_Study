@@ -1,0 +1,19 @@
+---
+title: "2주차"
+mainfont: NanumGothic
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: console
+---
+
+## Ch3 ARMA models
+
+### (p24) ACF and PACF for ARMA
+```{r}
+
+```
+
